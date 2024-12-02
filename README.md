@@ -1,14 +1,13 @@
 # Proyecto_Final_Fundamentos_CC112A
-# Introducción a la Programación con Python - Proyecto
+# Introducción a la Programación con Python
 
 Este repositorio está dividido en 2 partes las cuales forman parte de un proyecto de funcionalidades generales de Python, done los conceptos son fundamentales y se utilizan para estructurar
 y manipular datos, escribir código y desarrollar programas. A continuación, se describe de manera general el contenido de cada una de las partes:
 
 ## INTEGRANTES:  
 - Estrada Lopez Marco Josbel  
----
 
-## Estructura del Proyecto
+## Contenido del Proyecto
 
 ### **Parte 1**  
 Ejemplos de apartados generales en Python que se desarrollan con los siguientes temas:
@@ -22,8 +21,6 @@ Ejemplos de apartados generales en Python que se desarrollan con los siguientes 
 ### **Parte 2**  
 Este notebook contiene un juego llamado **Adivina el número del juego**, cuyo objetivo es que el jugador(usuario) adivine un número generado aleatoriamente dentro de un rango definido
 para lo cual el ordenador la dará pistas para y un determinado número de intentos para hacer el juego más entretenido.
-
----
 
 ## Instrucciones
 
