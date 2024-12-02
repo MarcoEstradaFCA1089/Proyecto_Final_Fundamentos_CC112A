@@ -26,10 +26,10 @@ para lo cual el ordenador la dará pistas para y un determinado número de inten
 
 Para ejecutar estos notebooks, sigue estos pasos:
 
-1. Asegúrate de tener un entorno de Python configurado con **Visual Studio Code(VSC)** y todas las dependencias necesarias instaladas, sino utilizar otro compilador de su preferencia.  
-2. Abre cada notebook en **Visual Studio Code(VSC)** y sigue las instrucciones proporcionadas.  
+1. Asegúrate de tener un entorno de Python configurado con **Visual Studio Code (VSC)** y todas las dependencias necesarias instaladas, sino utilizar otro compilador de su preferencia.  
+2. Abre cada notebook en **Visual Studio Code (VSC)** y sigue las instrucciones proporcionadas.  
 
-**Recomendación:** Compilar los programas desde el editor de código de **Visual Studio Code**, ya que es versátil, ligero y adaptable.
+**Recomendación:** Compilar los programas desde el editor de código de **Visual Studio Code (VSC)**, ya que es versátil, ligero y adaptable.
 
 
 ## Recomendaciones al compilar en Visual Studio Code
