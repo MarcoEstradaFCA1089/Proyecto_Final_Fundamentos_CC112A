@@ -19,7 +19,7 @@ Ejemplos de apartados generales en Python que se desarrollan con los siguientes 
 - Clases  
 
 ### **Parte 2**  
-Este notebook contiene un juego llamado,**Adivina el número del juego**, cuyo objetivo es que el jugador(usuario) adivine un número generado aleatoriamente dentro de un rango definido
+Este notebook contiene un juego llamado, **Adivina el número del juego**, cuyo objetivo es que el jugador(usuario) adivine un número generado aleatoriamente dentro de un rango definido
 para lo cual el ordenador la dará pistas para y un determinado número de intentos para hacer el juego más entretenido.
 
 ## Instrucciones
