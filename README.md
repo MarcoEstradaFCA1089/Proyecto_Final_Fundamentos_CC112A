@@ -47,7 +47,7 @@ Si decides trabajar en **Visual Studio Code**, aquí tienes algunos pasos y reco
      
 3. **Abrir los notebooks**:  
    - Abre el proyecto en VS Code.  
-   - Haz clic en el archivo `Parte1.ipynb`, `Parte2.ipynb` para visualizarlo como notebook interactivo.  
+   - Haz clic en el archivo `Parte1.py`, `Parte2.py` para visualizarlo como notebook interactivo.  
    - Si ves un mensaje para seleccionar el kernel, elige el que corresponda a tu entorno de Python.  
 
 4. **Compilación y ejecución**:  
