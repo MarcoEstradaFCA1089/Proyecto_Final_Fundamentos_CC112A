@@ -4,7 +4,7 @@
 Este repositorio está dividido en 2 partes las cuales forman parte de un proyecto de funcionalidades generales de Python, done los conceptos son fundamentales y se utilizan para estructurar
 y manipular datos, escribir código y desarrollar programas. A continuación, se describe de manera general el contenido de cada una de las partes:
 
-Para visualizar en el GitHub irse a la rama principal de "master"
+Para visualizar el proyecto en GitHub, irse a la rama principal de "master"
 
 ## INTEGRANTES:  
 - Estrada Lopez Marco Josbel  
