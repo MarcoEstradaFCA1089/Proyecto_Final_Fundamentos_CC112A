@@ -1,4 +1,4 @@
-#Programa en el que verifica si 
+#Programa en el que verifica si una cadena ingresada es un palíndromo
 
 def Palindromo(texto):# Convertimos todo el texto a minúsculas y eliminamos caracteres no alfabéticos
     
@@ -14,3 +14,12 @@ if Palindromo(cadena):# Llamamos a la función Palindromo para verificar si la c
 else:
     
     print("No es un palíndromo.")# Si la función devuelve False, significa que no es un palíndromo
+
+
+"""
+Salida del programa:
+
+Ingrese una cadena: Anita lava la tina
+Es un palíndromo.
+
+"""
