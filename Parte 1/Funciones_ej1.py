@@ -26,3 +26,12 @@ def mostrar_factorial():# Creamos otra función tal que llamarla, el programa so
         print("Error: Por favor ingrese un número entero válido.")# En caso se ingrese un número negativo
 
 mostrar_factorial()# Llamamos a la función "mostrar_factorial" para mostrar el factorial
+
+
+"""
+Salida del programa:
+
+Ingrese un número entero para calcular su factorial: 6
+El factorial del número 6 es: 1 x 2 x 3 x 4 x 5 x 6 = 720
+
+"""
