@@ -22,3 +22,16 @@ def calcular_suma():
 # Ejemplo de uso:
 resultado = calcular_suma()
 print(f"La suma de los números es: {resultado}")
+
+
+"""
+Salida del programa:
+
+Introduce el tamaño de la lista: 4
+Introduce el número 1: 10
+Introduce el número 2: 15
+Introduce el número 3: 20
+Introduce el número 4: 10
+La suma de los números es: 55
+
+"""
