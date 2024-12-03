@@ -31,6 +31,11 @@ main()# Llamar a la función principal
 """
 Salida del programa:
 
-
+Introduce el nombre del estudiante: Alex
+Introduce la edad del estudiante: 18
+Introduce el promedio del estudiante: 14.5
+Nombre: Alex
+Edad: 18
+Promedio: 14.5
 
 """
