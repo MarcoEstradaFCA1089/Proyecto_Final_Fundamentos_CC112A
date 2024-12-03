@@ -21,12 +21,13 @@ def main():
 # Llamar a la función principal
 main()
 
+
 """
 Salida del programa:
 
+Introduce el nombre del archivo: datos.txt
+Introduce los datos que quieres escribir en el archivo: Este es un archivo de prueba
 
-
-
-
+Datos escritos en el archivo 'datos.txt' con éxito.
 
 """
